@@ -1,2 +1,3 @@
+-- comment
 putStrLn "Hello World"
 
